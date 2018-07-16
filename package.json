@@ -1,0 +1,24 @@
+{
+  "name": "syn-enc",
+  "version": "1.0.0",
+  "description": "simple tool for symetric encryption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonatanHern/syn-enc.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "symetryc-encryption"
+  ],
+  "author": "JhonatanHern",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhonatanHern/syn-enc/issues"
+  },
+  "homepage": "https://github.com/JhonatanHern/syn-enc#readme"
+}
